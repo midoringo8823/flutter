@@ -1,0 +1,7 @@
+name: chart_sample
+dependencies:
+  intl: '>=0.12.4+2 <0.13.0'
+  collection: '>=1.4.0 <2.0.0'
+
+  flutter:
+    path: ../../packages/flutter
